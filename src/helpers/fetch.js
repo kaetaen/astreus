@@ -1,9 +1,9 @@
 const axios = require('axios')
 
 async function fetch (url) {
-    const data = await axios.get(url)
+  const data = await axios.get(url)
 
-    return data.data
+  return data.data
 }
 
 module.exports = fetch
