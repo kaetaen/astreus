@@ -1,15 +1,11 @@
 # Astreus
 
-
-
-
-# Kouhai
 > _"When we look up at night and view the stars, everything we see is shining because of distant nuclear fusion."_
 <br> — Carl Sagan
 
 <!-- img -->
 <p>
-  <img src="https://i.makeagif.com/media/10-22-2015/PRJuvO.gif" align="center" width="600" height="400"/>
+  <img src="https://media3.giphy.com/media/24C2paIV0IBEY/giphy.gif" align="center" width="300" height="400"/>
 </p>
 <!-- Img -->
 
